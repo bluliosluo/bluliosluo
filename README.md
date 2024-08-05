@@ -17,7 +17,7 @@ class SoftwareEngineer:
         self.name = "Chloe Luo"
         self.pronouns: "She/Her/Hers"
         self.im_looking_for = "Software Engineer Internship"
-        self.hobbies = ["Snowboarding", "Photography", "Skydiving", "handpan"]
+        self.hobbies = ["Snowboarding", "Photography", "Skydiving"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -63,6 +63,11 @@ me.say_hi()
 ![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E)
 
 
+## My GitHub Stats
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bluliosluo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chloe's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluliosluo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
     
     
