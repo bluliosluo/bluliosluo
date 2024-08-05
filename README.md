@@ -21,7 +21,7 @@ class SoftwareEngineer:
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
-        print("I love connecting with different people. I'll be happy to meet you more!")
+        
 
 
 me = SoftwareEngineer()
