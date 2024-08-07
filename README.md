@@ -63,11 +63,5 @@ me.say_hi()
 ![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E)
 
 
-## My GitHub Stats
-
-
-| <img align="center" src="https://github-readme-stats-zeta-nine-47.vercel.app/api?username=bluliosluo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chloe's github stats" /></a> | <img align="center" src="https://github-readme-stats-zeta-nine-47.vercel.app/api/top-langs/?username=bluliosluo&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
     
     
