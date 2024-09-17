@@ -17,7 +17,7 @@ class SoftwareEngineer:
         self.name = "Chloe Luo"
         self.pronouns: "She/Her/Hers"
         self.im_looking_for = "Software Engineer Internship"
-        self.hobbies = ["Snowboarding", "Photography", "Skydiving"]
+        self.hobbies = ["Snowboarding", "Photography", "Hiking"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
